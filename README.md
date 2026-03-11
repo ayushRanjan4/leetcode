@@ -20,12 +20,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/ayushRanjan4/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/ayushRanjan4/leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/ayushRanjan4/leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1980-find-unique-binary-string](https://github.com/ayushRanjan4/leetcode/tree/master/1980-find-unique-binary-string) |
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/ayushRanjan4/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/ayushRanjan4/leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/ayushRanjan4/leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 ## Recursion
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/ayushRanjan4/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [1980-find-unique-binary-string](https://github.com/ayushRanjan4/leetcode/tree/master/1980-find-unique-binary-string) |
 ## Backtracking
 |  |
