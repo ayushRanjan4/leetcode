@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0657-robot-return-to-origin](https://github.com/ayushRanjan4/leetcode/tree/master/0657-robot-return-to-origin) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ayushRanjan4/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/ayushRanjan4/leetcode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/ayushRanjan4/leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0657-robot-return-to-origin](https://github.com/ayushRanjan4/leetcode/tree/master/0657-robot-return-to-origin) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/ayushRanjan4/leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/ayushRanjan4/leetcode/tree/master/2075-decode-the-slanted-ciphertext) |
 ## Dynamic Programming
