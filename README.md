@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1622-fancy-sequence](https://github.com/ayushRanjan4/leetcode/tree/master/1622-fancy-sequence) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/ayushRanjan4/leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/ayushRanjan4/leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3783-mirror-distance-of-an-integer](https://github.com/ayushRanjan4/leetcode/tree/master/3783-mirror-distance-of-an-integer) |
 ## Hash Table
 |  |
 | ------- |
