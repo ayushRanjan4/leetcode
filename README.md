@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2573-find-the-string-with-lcp](https://github.com/ayushRanjan4/leetcode/tree/master/2573-find-the-string-with-lcp) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/ayushRanjan4/leetcode/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/ayushRanjan4/leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/ayushRanjan4/leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## Greedy
 |  |
 | ------- |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1980-find-unique-binary-string](https://github.com/ayushRanjan4/leetcode/tree/master/1980-find-unique-binary-string) |
 | [2540-minimum-common-value](https://github.com/ayushRanjan4/leetcode/tree/master/2540-minimum-common-value) |
 | [2573-find-the-string-with-lcp](https://github.com/ayushRanjan4/leetcode/tree/master/2573-find-the-string-with-lcp) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/ayushRanjan4/leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/ayushRanjan4/leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/ayushRanjan4/leetcode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/ayushRanjan4/leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1980-find-unique-binary-string](https://github.com/ayushRanjan4/leetcode/tree/master/1980-find-unique-binary-string) |
 | [2540-minimum-common-value](https://github.com/ayushRanjan4/leetcode/tree/master/2540-minimum-common-value) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/ayushRanjan4/leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/ayushRanjan4/leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/ayushRanjan4/leetcode/tree/master/3548-equal-sum-grid-partition-ii) |
 ## Backtracking
 |  |
@@ -210,4 +213,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1306-jump-game-iii](https://github.com/ayushRanjan4/leetcode/tree/master/1306-jump-game-iii) |
+## Trie
+|  |
+| ------- |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/ayushRanjan4/leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 <!---LeetCode Topics End-->
