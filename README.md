@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/ayushRanjan4/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0073-set-matrix-zeroes](https://github.com/ayushRanjan4/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/ayushRanjan4/leetcode/tree/master/0075-sort-colors) |
 | [0874-walking-robot-simulation](https://github.com/ayushRanjan4/leetcode/tree/master/0874-walking-robot-simulation) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/ayushRanjan4/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/ayushRanjan4/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/ayushRanjan4/leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2540-minimum-common-value](https://github.com/ayushRanjan4/leetcode/tree/master/2540-minimum-common-value) |
