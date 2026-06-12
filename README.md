@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/ayushRanjan4/leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3546-equal-sum-grid-partition-i](https://github.com/ayushRanjan4/leetcode/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/ayushRanjan4/leetcode/tree/master/3548-equal-sum-grid-partition-ii) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/ayushRanjan4/leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/ayushRanjan4/leetcode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 ## Matrix
 |  |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/ayushRanjan4/leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2573-find-the-string-with-lcp](https://github.com/ayushRanjan4/leetcode/tree/master/2573-find-the-string-with-lcp) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/ayushRanjan4/leetcode/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/ayushRanjan4/leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1622-fancy-sequence](https://github.com/ayushRanjan4/leetcode/tree/master/1622-fancy-sequence) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/ayushRanjan4/leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/ayushRanjan4/leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/ayushRanjan4/leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3783-mirror-distance-of-an-integer](https://github.com/ayushRanjan4/leetcode/tree/master/3783-mirror-distance-of-an-integer) |
 ## Hash Table
 |  |
@@ -152,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1009-complement-of-base-10-integer](https://github.com/ayushRanjan4/leetcode/tree/master/1009-complement-of-base-10-integer) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/ayushRanjan4/leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -214,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1306-jump-game-iii](https://github.com/ayushRanjan4/leetcode/tree/master/1306-jump-game-iii) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/ayushRanjan4/leetcode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/ayushRanjan4/leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -222,4 +227,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/ayushRanjan4/leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+## Tree
+|  |
+| ------- |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/ayushRanjan4/leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 <!---LeetCode Topics End-->
