@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/ayushRanjan4/leetcode/tree/master/0785-is-graph-bipartite) |
 | [0990-satisfiability-of-equality-equations](https://github.com/ayushRanjan4/leetcode/tree/master/0990-satisfiability-of-equality-equations) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/ayushRanjan4/leetcode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
+| [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/ayushRanjan4/leetcode/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ayushRanjan4/leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2573-find-the-string-with-lcp](https://github.com/ayushRanjan4/leetcode/tree/master/2573-find-the-string-with-lcp) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ayushRanjan4/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/ayushRanjan4/leetcode/tree/master/0785-is-graph-bipartite) |
 | [0990-satisfiability-of-equality-equations](https://github.com/ayushRanjan4/leetcode/tree/master/0990-satisfiability-of-equality-equations) |
+| [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/ayushRanjan4/leetcode/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ayushRanjan4/leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/ayushRanjan4/leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Minimum Spanning Tree
@@ -244,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/ayushRanjan4/leetcode/tree/master/0785-is-graph-bipartite) |
 | [1306-jump-game-iii](https://github.com/ayushRanjan4/leetcode/tree/master/1306-jump-game-iii) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/ayushRanjan4/leetcode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
+| [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/ayushRanjan4/leetcode/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ayushRanjan4/leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/ayushRanjan4/leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Breadth-First Search
@@ -251,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/ayushRanjan4/leetcode/tree/master/0785-is-graph-bipartite) |
 | [1306-jump-game-iii](https://github.com/ayushRanjan4/leetcode/tree/master/1306-jump-game-iii) |
+| [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/ayushRanjan4/leetcode/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ayushRanjan4/leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ayushRanjan4/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Trie
