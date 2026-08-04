@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/ayushRanjan4/leetcode/tree/master/0075-sort-colors) |
 | [0486-predict-the-winner](https://github.com/ayushRanjan4/leetcode/tree/master/0486-predict-the-winner) |
 | [0874-walking-robot-simulation](https://github.com/ayushRanjan4/leetcode/tree/master/0874-walking-robot-simulation) |
+| [0962-maximum-width-ramp](https://github.com/ayushRanjan4/leetcode/tree/master/0962-maximum-width-ramp) |
 | [0990-satisfiability-of-equality-equations](https://github.com/ayushRanjan4/leetcode/tree/master/0990-satisfiability-of-equality-equations) |
 | [1004-max-consecutive-ones-iii](https://github.com/ayushRanjan4/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/ayushRanjan4/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/ayushRanjan4/leetcode/tree/master/0075-sort-colors) |
+| [0962-maximum-width-ramp](https://github.com/ayushRanjan4/leetcode/tree/master/0962-maximum-width-ramp) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/ayushRanjan4/leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/ayushRanjan4/leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/ayushRanjan4/leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -273,4 +275,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/ayushRanjan4/leetcode/tree/master/0486-predict-the-winner) |
+## Stack
+|  |
+| ------- |
+| [0962-maximum-width-ramp](https://github.com/ayushRanjan4/leetcode/tree/master/0962-maximum-width-ramp) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0962-maximum-width-ramp](https://github.com/ayushRanjan4/leetcode/tree/master/0962-maximum-width-ramp) |
 <!---LeetCode Topics End-->
