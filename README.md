@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0605-can-place-flowers](https://github.com/ayushRanjan4/leetcode/tree/master/0605-can-place-flowers) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/ayushRanjan4/leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/ayushRanjan4/leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/ayushRanjan4/leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/ayushRanjan4/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/ayushRanjan4/leetcode/tree/master/0075-sort-colors) |
 | [0486-predict-the-winner](https://github.com/ayushRanjan4/leetcode/tree/master/0486-predict-the-winner) |
+| [0605-can-place-flowers](https://github.com/ayushRanjan4/leetcode/tree/master/0605-can-place-flowers) |
 | [0874-walking-robot-simulation](https://github.com/ayushRanjan4/leetcode/tree/master/0874-walking-robot-simulation) |
 | [0962-maximum-width-ramp](https://github.com/ayushRanjan4/leetcode/tree/master/0962-maximum-width-ramp) |
 | [0990-satisfiability-of-equality-equations](https://github.com/ayushRanjan4/leetcode/tree/master/0990-satisfiability-of-equality-equations) |
