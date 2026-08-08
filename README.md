@@ -212,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0851-loud-and-rich](https://github.com/ayushRanjan4/leetcode/tree/master/0851-loud-and-rich) |
 | [0886-possible-bipartition](https://github.com/ayushRanjan4/leetcode/tree/master/0886-possible-bipartition) |
 | [0990-satisfiability-of-equality-equations](https://github.com/ayushRanjan4/leetcode/tree/master/0990-satisfiability-of-equality-equations) |
+| [1042-flower-planting-with-no-adjacent](https://github.com/ayushRanjan4/leetcode/tree/master/1042-flower-planting-with-no-adjacent) |
 | [1361-validate-binary-tree-nodes](https://github.com/ayushRanjan4/leetcode/tree/master/1361-validate-binary-tree-nodes) |
 | [1791-find-center-of-star-graph](https://github.com/ayushRanjan4/leetcode/tree/master/1791-find-center-of-star-graph) |
 | [1971-find-if-path-exists-in-graph](https://github.com/ayushRanjan4/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0802-find-eventual-safe-states](https://github.com/ayushRanjan4/leetcode/tree/master/0802-find-eventual-safe-states) |
 | [0851-loud-and-rich](https://github.com/ayushRanjan4/leetcode/tree/master/0851-loud-and-rich) |
 | [0886-possible-bipartition](https://github.com/ayushRanjan4/leetcode/tree/master/0886-possible-bipartition) |
+| [1042-flower-planting-with-no-adjacent](https://github.com/ayushRanjan4/leetcode/tree/master/1042-flower-planting-with-no-adjacent) |
 | [1306-jump-game-iii](https://github.com/ayushRanjan4/leetcode/tree/master/1306-jump-game-iii) |
 | [1361-validate-binary-tree-nodes](https://github.com/ayushRanjan4/leetcode/tree/master/1361-validate-binary-tree-nodes) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/ayushRanjan4/leetcode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
@@ -282,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-all-paths-from-source-to-target](https://github.com/ayushRanjan4/leetcode/tree/master/0797-all-paths-from-source-to-target) |
 | [0802-find-eventual-safe-states](https://github.com/ayushRanjan4/leetcode/tree/master/0802-find-eventual-safe-states) |
 | [0886-possible-bipartition](https://github.com/ayushRanjan4/leetcode/tree/master/0886-possible-bipartition) |
+| [1042-flower-planting-with-no-adjacent](https://github.com/ayushRanjan4/leetcode/tree/master/1042-flower-planting-with-no-adjacent) |
 | [1306-jump-game-iii](https://github.com/ayushRanjan4/leetcode/tree/master/1306-jump-game-iii) |
 | [1361-validate-binary-tree-nodes](https://github.com/ayushRanjan4/leetcode/tree/master/1361-validate-binary-tree-nodes) |
 | [1971-find-if-path-exists-in-graph](https://github.com/ayushRanjan4/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
@@ -335,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0886-possible-bipartition](https://github.com/ayushRanjan4/leetcode/tree/master/0886-possible-bipartition) |
+| [1042-flower-planting-with-no-adjacent](https://github.com/ayushRanjan4/leetcode/tree/master/1042-flower-planting-with-no-adjacent) |
 ## Bipartite Graph
 |  |
 | ------- |
