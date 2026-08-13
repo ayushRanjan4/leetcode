@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/ayushRanjan4/leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1980-find-unique-binary-string](https://github.com/ayushRanjan4/leetcode/tree/master/1980-find-unique-binary-string) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/ayushRanjan4/leetcode/tree/master/2075-decode-the-slanted-ciphertext) |
+| [2115-find-all-possible-recipes-from-given-supplies](https://github.com/ayushRanjan4/leetcode/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [2573-find-the-string-with-lcp](https://github.com/ayushRanjan4/leetcode/tree/master/2573-find-the-string-with-lcp) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/ayushRanjan4/leetcode/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/ayushRanjan4/leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/ayushRanjan4/leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/ayushRanjan4/leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1980-find-unique-binary-string](https://github.com/ayushRanjan4/leetcode/tree/master/1980-find-unique-binary-string) |
+| [2115-find-all-possible-recipes-from-given-supplies](https://github.com/ayushRanjan4/leetcode/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/ayushRanjan4/leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2540-minimum-common-value](https://github.com/ayushRanjan4/leetcode/tree/master/2540-minimum-common-value) |
 | [2573-find-the-string-with-lcp](https://github.com/ayushRanjan4/leetcode/tree/master/2573-find-the-string-with-lcp) |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/ayushRanjan4/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ayushRanjan4/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1980-find-unique-binary-string](https://github.com/ayushRanjan4/leetcode/tree/master/1980-find-unique-binary-string) |
+| [2115-find-all-possible-recipes-from-given-supplies](https://github.com/ayushRanjan4/leetcode/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [2540-minimum-common-value](https://github.com/ayushRanjan4/leetcode/tree/master/2540-minimum-common-value) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/ayushRanjan4/leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/ayushRanjan4/leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
@@ -220,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1615-maximal-network-rank](https://github.com/ayushRanjan4/leetcode/tree/master/1615-maximal-network-rank) |
 | [1791-find-center-of-star-graph](https://github.com/ayushRanjan4/leetcode/tree/master/1791-find-center-of-star-graph) |
 | [1971-find-if-path-exists-in-graph](https://github.com/ayushRanjan4/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
+| [2115-find-all-possible-recipes-from-given-supplies](https://github.com/ayushRanjan4/leetcode/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/ayushRanjan4/leetcode/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ayushRanjan4/leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/ayushRanjan4/leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
@@ -326,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0797-all-paths-from-source-to-target](https://github.com/ayushRanjan4/leetcode/tree/master/0797-all-paths-from-source-to-target) |
 | [0851-loud-and-rich](https://github.com/ayushRanjan4/leetcode/tree/master/0851-loud-and-rich) |
+| [2115-find-all-possible-recipes-from-given-supplies](https://github.com/ayushRanjan4/leetcode/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 ## Binary Tree
 |  |
 | ------- |
@@ -336,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0802-find-eventual-safe-states](https://github.com/ayushRanjan4/leetcode/tree/master/0802-find-eventual-safe-states) |
 | [0851-loud-and-rich](https://github.com/ayushRanjan4/leetcode/tree/master/0851-loud-and-rich) |
 | [1462-course-schedule-iv](https://github.com/ayushRanjan4/leetcode/tree/master/1462-course-schedule-iv) |
+| [2115-find-all-possible-recipes-from-given-supplies](https://github.com/ayushRanjan4/leetcode/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 ## Kosaraju's Algorithm
 |  |
 | ------- |
