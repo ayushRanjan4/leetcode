@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/ayushRanjan4/leetcode/tree/master/0075-sort-colors) |
 | [0486-predict-the-winner](https://github.com/ayushRanjan4/leetcode/tree/master/0486-predict-the-winner) |
 | [0605-can-place-flowers](https://github.com/ayushRanjan4/leetcode/tree/master/0605-can-place-flowers) |
+| [0735-asteroid-collision](https://github.com/ayushRanjan4/leetcode/tree/master/0735-asteroid-collision) |
 | [0851-loud-and-rich](https://github.com/ayushRanjan4/leetcode/tree/master/0851-loud-and-rich) |
 | [0874-walking-robot-simulation](https://github.com/ayushRanjan4/leetcode/tree/master/0874-walking-robot-simulation) |
 | [0962-maximum-width-ramp](https://github.com/ayushRanjan4/leetcode/tree/master/0962-maximum-width-ramp) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/ayushRanjan4/leetcode/tree/master/0657-robot-return-to-origin) |
+| [0735-asteroid-collision](https://github.com/ayushRanjan4/leetcode/tree/master/0735-asteroid-collision) |
 | [0874-walking-robot-simulation](https://github.com/ayushRanjan4/leetcode/tree/master/0874-walking-robot-simulation) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/ayushRanjan4/leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [2069-walking-robot-simulation-ii](https://github.com/ayushRanjan4/leetcode/tree/master/2069-walking-robot-simulation-ii) |
@@ -335,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/ayushRanjan4/leetcode/tree/master/0735-asteroid-collision) |
 | [0962-maximum-width-ramp](https://github.com/ayushRanjan4/leetcode/tree/master/0962-maximum-width-ramp) |
 ## Monotonic Stack
 |  |
