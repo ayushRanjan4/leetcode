@@ -236,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/ayushRanjan4/leetcode/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [2285-maximum-total-importance-of-roads](https://github.com/ayushRanjan4/leetcode/tree/master/2285-maximum-total-importance-of-roads) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/ayushRanjan4/leetcode/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
+| [2359-find-closest-node-to-given-two-nodes](https://github.com/ayushRanjan4/leetcode/tree/master/2359-find-closest-node-to-given-two-nodes) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ayushRanjan4/leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/ayushRanjan4/leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Minimum Spanning Tree
@@ -301,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/ayushRanjan4/leetcode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1971-find-if-path-exists-in-graph](https://github.com/ayushRanjan4/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/ayushRanjan4/leetcode/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
+| [2359-find-closest-node-to-given-two-nodes](https://github.com/ayushRanjan4/leetcode/tree/master/2359-find-closest-node-to-given-two-nodes) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ayushRanjan4/leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/ayushRanjan4/leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Breadth-First Search
