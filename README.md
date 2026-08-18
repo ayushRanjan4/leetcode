@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/ayushRanjan4/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0657-robot-return-to-origin](https://github.com/ayushRanjan4/leetcode/tree/master/0657-robot-return-to-origin) |
 | [0990-satisfiability-of-equality-equations](https://github.com/ayushRanjan4/leetcode/tree/master/0990-satisfiability-of-equality-equations) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/ayushRanjan4/leetcode/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/ayushRanjan4/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1004-max-consecutive-ones-iii](https://github.com/ayushRanjan4/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/ayushRanjan4/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ayushRanjan4/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/ayushRanjan4/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/ayushRanjan4/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0874-walking-robot-simulation](https://github.com/ayushRanjan4/leetcode/tree/master/0874-walking-robot-simulation) |
 | [1248-count-number-of-nice-subarrays](https://github.com/ayushRanjan4/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
