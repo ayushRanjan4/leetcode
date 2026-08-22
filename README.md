@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/ayushRanjan4/leetcode/tree/master/0455-assign-cookies) |
 | [0486-predict-the-winner](https://github.com/ayushRanjan4/leetcode/tree/master/0486-predict-the-winner) |
 | [0605-can-place-flowers](https://github.com/ayushRanjan4/leetcode/tree/master/0605-can-place-flowers) |
+| [0658-find-k-closest-elements](https://github.com/ayushRanjan4/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0735-asteroid-collision](https://github.com/ayushRanjan4/leetcode/tree/master/0735-asteroid-collision) |
 | [0851-loud-and-rich](https://github.com/ayushRanjan4/leetcode/tree/master/0851-loud-and-rich) |
 | [0874-walking-robot-simulation](https://github.com/ayushRanjan4/leetcode/tree/master/0874-walking-robot-simulation) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ayushRanjan4/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0413-arithmetic-slices](https://github.com/ayushRanjan4/leetcode/tree/master/0413-arithmetic-slices) |
+| [0658-find-k-closest-elements](https://github.com/ayushRanjan4/leetcode/tree/master/0658-find-k-closest-elements) |
 | [1004-max-consecutive-ones-iii](https://github.com/ayushRanjan4/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/ayushRanjan4/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ayushRanjan4/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/ayushRanjan4/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ayushRanjan4/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0658-find-k-closest-elements](https://github.com/ayushRanjan4/leetcode/tree/master/0658-find-k-closest-elements) |
 | [1004-max-consecutive-ones-iii](https://github.com/ayushRanjan4/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/ayushRanjan4/leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2540-minimum-common-value](https://github.com/ayushRanjan4/leetcode/tree/master/2540-minimum-common-value) |
@@ -263,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0658-find-k-closest-elements](https://github.com/ayushRanjan4/leetcode/tree/master/0658-find-k-closest-elements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/ayushRanjan4/leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2285-maximum-total-importance-of-roads](https://github.com/ayushRanjan4/leetcode/tree/master/2285-maximum-total-importance-of-roads) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/ayushRanjan4/leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
@@ -287,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0165-compare-version-numbers](https://github.com/ayushRanjan4/leetcode/tree/master/0165-compare-version-numbers) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ayushRanjan4/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/ayushRanjan4/leetcode/tree/master/0455-assign-cookies) |
+| [0658-find-k-closest-elements](https://github.com/ayushRanjan4/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0962-maximum-width-ramp](https://github.com/ayushRanjan4/leetcode/tree/master/0962-maximum-width-ramp) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/ayushRanjan4/leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/ayushRanjan4/leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -299,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/ayushRanjan4/leetcode/tree/master/0075-sort-colors) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ayushRanjan4/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/ayushRanjan4/leetcode/tree/master/0455-assign-cookies) |
+| [0658-find-k-closest-elements](https://github.com/ayushRanjan4/leetcode/tree/master/0658-find-k-closest-elements) |
 | [1288-remove-covered-intervals](https://github.com/ayushRanjan4/leetcode/tree/master/1288-remove-covered-intervals) |
 | [1311-get-watched-videos-by-your-friends](https://github.com/ayushRanjan4/leetcode/tree/master/1311-get-watched-videos-by-your-friends) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/ayushRanjan4/leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
