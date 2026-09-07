@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/ayushRanjan4/leetcode/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/ayushRanjan4/leetcode/tree/master/0045-jump-game-ii) |
 | [0455-assign-cookies](https://github.com/ayushRanjan4/leetcode/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/ayushRanjan4/leetcode/tree/master/0605-can-place-flowers) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/ayushRanjan4/leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/ayushRanjan4/leetcode/tree/master/0011-container-with-most-water) |
 | [0018-4sum](https://github.com/ayushRanjan4/leetcode/tree/master/0018-4sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/ayushRanjan4/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0045-jump-game-ii](https://github.com/ayushRanjan4/leetcode/tree/master/0045-jump-game-ii) |
 | [0073-set-matrix-zeroes](https://github.com/ayushRanjan4/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/ayushRanjan4/leetcode/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/ayushRanjan4/leetcode/tree/master/0136-single-number) |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/ayushRanjan4/leetcode/tree/master/0045-jump-game-ii) |
 | [0413-arithmetic-slices](https://github.com/ayushRanjan4/leetcode/tree/master/0413-arithmetic-slices) |
 | [0486-predict-the-winner](https://github.com/ayushRanjan4/leetcode/tree/master/0486-predict-the-winner) |
 | [1301-number-of-paths-with-max-score](https://github.com/ayushRanjan4/leetcode/tree/master/1301-number-of-paths-with-max-score) |
