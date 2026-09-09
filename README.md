@@ -184,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/ayushRanjan4/leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/ayushRanjan4/leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3783-mirror-distance-of-an-integer](https://github.com/ayushRanjan4/leetcode/tree/master/3783-mirror-distance-of-an-integer) |
+| [3871-count-commas-in-range-ii](https://github.com/ayushRanjan4/leetcode/tree/master/3871-count-commas-in-range-ii) |
 ## Hash Table
 |  |
 | ------- |
