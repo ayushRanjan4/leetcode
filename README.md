@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ayushRanjan4/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/ayushRanjan4/leetcode/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/ayushRanjan4/leetcode/tree/master/0079-word-search) |
 | [0165-compare-version-numbers](https://github.com/ayushRanjan4/leetcode/tree/master/0165-compare-version-numbers) |
 | [0657-robot-return-to-origin](https://github.com/ayushRanjan4/leetcode/tree/master/0657-robot-return-to-origin) |
 | [0990-satisfiability-of-equality-equations](https://github.com/ayushRanjan4/leetcode/tree/master/0990-satisfiability-of-equality-equations) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/ayushRanjan4/leetcode/tree/master/0045-jump-game-ii) |
 | [0073-set-matrix-zeroes](https://github.com/ayushRanjan4/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/ayushRanjan4/leetcode/tree/master/0075-sort-colors) |
+| [0079-word-search](https://github.com/ayushRanjan4/leetcode/tree/master/0079-word-search) |
 | [0134-gas-station](https://github.com/ayushRanjan4/leetcode/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/ayushRanjan4/leetcode/tree/master/0136-single-number) |
 | [0260-single-number-iii](https://github.com/ayushRanjan4/leetcode/tree/master/0260-single-number-iii) |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/ayushRanjan4/leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/ayushRanjan4/leetcode/tree/master/0079-word-search) |
 | [1301-number-of-paths-with-max-score](https://github.com/ayushRanjan4/leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/ayushRanjan4/leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/ayushRanjan4/leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
@@ -212,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0079-word-search](https://github.com/ayushRanjan4/leetcode/tree/master/0079-word-search) |
 | [0797-all-paths-from-source-to-target](https://github.com/ayushRanjan4/leetcode/tree/master/0797-all-paths-from-source-to-target) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/ayushRanjan4/leetcode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1980-find-unique-binary-string](https://github.com/ayushRanjan4/leetcode/tree/master/1980-find-unique-binary-string) |
@@ -351,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/ayushRanjan4/leetcode/tree/master/0079-word-search) |
 | [0785-is-graph-bipartite](https://github.com/ayushRanjan4/leetcode/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/ayushRanjan4/leetcode/tree/master/0797-all-paths-from-source-to-target) |
 | [0802-find-eventual-safe-states](https://github.com/ayushRanjan4/leetcode/tree/master/0802-find-eventual-safe-states) |
