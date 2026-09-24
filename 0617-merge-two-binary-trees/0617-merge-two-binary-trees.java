@@ -13,6 +13,7 @@
  *     }
  * }
  */
+ /**
 class Solution {
     public TreeNode mergeTrees(TreeNode root1, TreeNode root2) {
         return solve(root1,root2);
@@ -33,5 +34,41 @@ class Solution {
             r2 != null ? r2.right : null
         );
         return root;
+    }
+}
+*/
+class Solution {
+    public TreeNode mergeTrees(TreeNode root1, TreeNode root2) {
+
+        if (root1 == null) return root2;
+        if (root2 == null) return root1;
+
+        Queue<TreeNode[]> queue = new LinkedList<>();
+
+        queue.offer(new TreeNode[]{root1, root2});
+
+        while (!queue.isEmpty()) {
+
+            TreeNode[] pair = queue.poll();
+
+            TreeNode r1 = pair[0];
+            TreeNode r2 = pair[1];
+
+            r1.val += r2.val;
+            if (r1.left == null) {
+                r1.left = r2.left;
+            } 
+            else if (r2.left != null) {
+                queue.offer(new TreeNode[]{r1.left, r2.left});
+            }
+            if (r1.right == null) {
+                r1.right = r2.right;
+            } 
+            else if (r2.right != null) {
+                queue.offer(new TreeNode[]{r1.right, r2.right});
+            }
+        }
+
+        return root1;
     }
 }
