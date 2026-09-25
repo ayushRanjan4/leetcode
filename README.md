@@ -425,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0617-merge-two-binary-trees](https://github.com/ayushRanjan4/leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/ayushRanjan4/leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ayushRanjan4/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0700-search-in-a-binary-search-tree](https://github.com/ayushRanjan4/leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [1361-validate-binary-tree-nodes](https://github.com/ayushRanjan4/leetcode/tree/master/1361-validate-binary-tree-nodes) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/ayushRanjan4/leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Game Theory
@@ -458,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0617-merge-two-binary-trees](https://github.com/ayushRanjan4/leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/ayushRanjan4/leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ayushRanjan4/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0700-search-in-a-binary-search-tree](https://github.com/ayushRanjan4/leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [1361-validate-binary-tree-nodes](https://github.com/ayushRanjan4/leetcode/tree/master/1361-validate-binary-tree-nodes) |
 ## Topological Sort
 |  |
@@ -497,4 +499,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0501-find-mode-in-binary-search-tree](https://github.com/ayushRanjan4/leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/ayushRanjan4/leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ayushRanjan4/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0700-search-in-a-binary-search-tree](https://github.com/ayushRanjan4/leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
