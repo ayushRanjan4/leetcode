@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/ayushRanjan4/leetcode/tree/master/0260-single-number-iii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ayushRanjan4/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0413-arithmetic-slices](https://github.com/ayushRanjan4/leetcode/tree/master/0413-arithmetic-slices) |
+| [0414-third-maximum-number](https://github.com/ayushRanjan4/leetcode/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/ayushRanjan4/leetcode/tree/master/0455-assign-cookies) |
 | [0486-predict-the-winner](https://github.com/ayushRanjan4/leetcode/tree/master/0486-predict-the-winner) |
 | [0605-can-place-flowers](https://github.com/ayushRanjan4/leetcode/tree/master/0605-can-place-flowers) |
@@ -350,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/ayushRanjan4/leetcode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/ayushRanjan4/leetcode/tree/master/0075-sort-colors) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ayushRanjan4/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0414-third-maximum-number](https://github.com/ayushRanjan4/leetcode/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/ayushRanjan4/leetcode/tree/master/0455-assign-cookies) |
 | [0658-find-k-closest-elements](https://github.com/ayushRanjan4/leetcode/tree/master/0658-find-k-closest-elements) |
 | [1288-remove-covered-intervals](https://github.com/ayushRanjan4/leetcode/tree/master/1288-remove-covered-intervals) |
