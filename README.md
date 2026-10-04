@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ayushRanjan4/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0032-longest-valid-parentheses](https://github.com/ayushRanjan4/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/ayushRanjan4/leetcode/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/ayushRanjan4/leetcode/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/ayushRanjan4/leetcode/tree/master/0079-word-search) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/ayushRanjan4/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0045-jump-game-ii](https://github.com/ayushRanjan4/leetcode/tree/master/0045-jump-game-ii) |
 | [0413-arithmetic-slices](https://github.com/ayushRanjan4/leetcode/tree/master/0413-arithmetic-slices) |
 | [0486-predict-the-winner](https://github.com/ayushRanjan4/leetcode/tree/master/0486-predict-the-winner) |
@@ -451,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/ayushRanjan4/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/ayushRanjan4/leetcode/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/ayushRanjan4/leetcode/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0735-asteroid-collision](https://github.com/ayushRanjan4/leetcode/tree/master/0735-asteroid-collision) |
@@ -524,5 +527,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/ayushRanjan4/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ayushRanjan4/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
