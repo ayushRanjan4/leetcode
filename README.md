@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/ayushRanjan4/leetcode/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/ayushRanjan4/leetcode/tree/master/0079-word-search) |
 | [0165-compare-version-numbers](https://github.com/ayushRanjan4/leetcode/tree/master/0165-compare-version-numbers) |
+| [0500-keyboard-row](https://github.com/ayushRanjan4/leetcode/tree/master/0500-keyboard-row) |
 | [0657-robot-return-to-origin](https://github.com/ayushRanjan4/leetcode/tree/master/0657-robot-return-to-origin) |
 | [0990-satisfiability-of-equality-equations](https://github.com/ayushRanjan4/leetcode/tree/master/0990-satisfiability-of-equality-equations) |
 | [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/ayushRanjan4/leetcode/tree/master/1016-binary-string-with-substrings-representing-1-to-n) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ayushRanjan4/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/ayushRanjan4/leetcode/tree/master/0455-assign-cookies) |
 | [0486-predict-the-winner](https://github.com/ayushRanjan4/leetcode/tree/master/0486-predict-the-winner) |
+| [0500-keyboard-row](https://github.com/ayushRanjan4/leetcode/tree/master/0500-keyboard-row) |
 | [0605-can-place-flowers](https://github.com/ayushRanjan4/leetcode/tree/master/0605-can-place-flowers) |
 | [0658-find-k-closest-elements](https://github.com/ayushRanjan4/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/ayushRanjan4/leetcode/tree/master/0713-subarray-product-less-than-k) |
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/ayushRanjan4/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ayushRanjan4/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ayushRanjan4/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0500-keyboard-row](https://github.com/ayushRanjan4/leetcode/tree/master/0500-keyboard-row) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ayushRanjan4/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0874-walking-robot-simulation](https://github.com/ayushRanjan4/leetcode/tree/master/0874-walking-robot-simulation) |
 | [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/ayushRanjan4/leetcode/tree/master/1016-binary-string-with-substrings-representing-1-to-n) |
