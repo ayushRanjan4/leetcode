@@ -406,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2359-find-closest-node-to-given-two-nodes](https://github.com/ayushRanjan4/leetcode/tree/master/2359-find-closest-node-to-given-two-nodes) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ayushRanjan4/leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/ayushRanjan4/leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
+| [3997-count-dominant-nodes-in-a-binary-tree](https://github.com/ayushRanjan4/leetcode/tree/master/3997-count-dominant-nodes-in-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -454,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0897-increasing-order-search-tree](https://github.com/ayushRanjan4/leetcode/tree/master/0897-increasing-order-search-tree) |
 | [1361-validate-binary-tree-nodes](https://github.com/ayushRanjan4/leetcode/tree/master/1361-validate-binary-tree-nodes) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/ayushRanjan4/leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
+| [3997-count-dominant-nodes-in-a-binary-tree](https://github.com/ayushRanjan4/leetcode/tree/master/3997-count-dominant-nodes-in-a-binary-tree) |
 ## Game Theory
 |  |
 | ------- |
@@ -494,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0872-leaf-similar-trees](https://github.com/ayushRanjan4/leetcode/tree/master/0872-leaf-similar-trees) |
 | [0897-increasing-order-search-tree](https://github.com/ayushRanjan4/leetcode/tree/master/0897-increasing-order-search-tree) |
 | [1361-validate-binary-tree-nodes](https://github.com/ayushRanjan4/leetcode/tree/master/1361-validate-binary-tree-nodes) |
+| [3997-count-dominant-nodes-in-a-binary-tree](https://github.com/ayushRanjan4/leetcode/tree/master/3997-count-dominant-nodes-in-a-binary-tree) |
 ## Topological Sort
 |  |
 | ------- |
