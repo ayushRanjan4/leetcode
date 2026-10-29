@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/ayushRanjan4/leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3612-process-string-with-special-operations-i](https://github.com/ayushRanjan4/leetcode/tree/master/3612-process-string-with-special-operations-i) |
 | [3838-weighted-word-mapping](https://github.com/ayushRanjan4/leetcode/tree/master/3838-weighted-word-mapping) |
+| [3839-number-of-prefix-connected-groups](https://github.com/ayushRanjan4/leetcode/tree/master/3839-number-of-prefix-connected-groups) |
 ## Greedy
 |  |
 | ------- |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/ayushRanjan4/leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/ayushRanjan4/leetcode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3838-weighted-word-mapping](https://github.com/ayushRanjan4/leetcode/tree/master/3838-weighted-word-mapping) |
+| [3839-number-of-prefix-connected-groups](https://github.com/ayushRanjan4/leetcode/tree/master/3839-number-of-prefix-connected-groups) |
 | [3903-smallest-stable-index-i](https://github.com/ayushRanjan4/leetcode/tree/master/3903-smallest-stable-index-i) |
 ## Matrix
 |  |
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/ayushRanjan4/leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/ayushRanjan4/leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/ayushRanjan4/leetcode/tree/master/3548-equal-sum-grid-partition-ii) |
+| [3839-number-of-prefix-connected-groups](https://github.com/ayushRanjan4/leetcode/tree/master/3839-number-of-prefix-connected-groups) |
 ## Backtracking
 |  |
 | ------- |
@@ -546,4 +549,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ayushRanjan4/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+## Counting
+|  |
+| ------- |
+| [3839-number-of-prefix-connected-groups](https://github.com/ayushRanjan4/leetcode/tree/master/3839-number-of-prefix-connected-groups) |
 <!---LeetCode Topics End-->
